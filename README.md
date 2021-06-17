@@ -1,5 +1,5 @@
 # Api "Bank" in clujure
-(to learn :tw-1f61d: )
+(to learn :stuck_out_tongue_closed_eyes: )
 
 This repositories contains an dummy a API of bank account.
 
